@@ -17,4 +17,6 @@ example: replace 61 "ProggyClean"
 
 ( it'll then restart/load up roblox studio )
 
-anyone let me know if this makes changing fonts easier and better```
+anyone let me know if this makes changing fonts easier and better
+(farming stars so star this if very useful & straightforward)
+```
